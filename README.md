@@ -1,6 +1,6 @@
 # demoProject
 
-## This an express application called 'Plout.'
+## This an application called 'Plout.'
 
 ![Plout Photo](images/plout.png)
 
