@@ -1,8 +1,8 @@
 # demoProject
 
-## This an express application called 'Bloq.'
+## This an express application called 'Plout.'
 
-![bloq Photo](images/bloqPh2.png)
+![Plout Photo](images/plout.png)
 
 ## Tech Used
 - HTML
