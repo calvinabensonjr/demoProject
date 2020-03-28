@@ -2,7 +2,7 @@
 
 ## This an express application called 'Bloq.'
 
-![bloq Photo](images/bloqPh.png)
+![bloq Photo](images/bloqPh2.png)
 
 ## Tech Used
 - HTML
