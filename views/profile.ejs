@@ -38,7 +38,7 @@
         </div>
       </div>
       <div class="col-sm-6">
-        <h3>Messages</h3>
+        <h3>Comments</h3>
         <ul class="messages">
           <% for(var i=0; i< messages.length; i++) {%>
           <% if (user.local.email == messages[i].name) { %>
@@ -54,7 +54,7 @@
           <% } %>
         </ul>
 
-        <h2>Add a message</h2>
+        <h2>Add a comment!e</h2>
         <% if (user.local.email) { %>
         <form action="/messages" method="POST">
           <input type="text" value="<%= user.local.email %>" name="name">
