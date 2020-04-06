@@ -2,7 +2,8 @@
 
 ## This an application called 'Plout.'
 
-![Plout Photo](images/plout.png)
+![Plout Photo](images/ploutHome.png)
+![Plout Photo2](images/myplout.png)
 
 ## Tech Used
 - HTML
