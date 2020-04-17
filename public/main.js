@@ -69,3 +69,15 @@ Array.from(trash).forEach(function(element) {
         })
       });
 });
+
+
+var designer = new CanvasDesigner();
+
+designer.appendTo(document.body);
+
+
+var designer = new CanvasDesigner();
+
+
+designer.widgetHtmlURL = 'https://www.webrtc-experiment.com/Canvas-Designer/widget.html';
+designer.widgetJsURL = 'https://www.webrtc-experiment.com/Canvas-Designer/widget.js';     
